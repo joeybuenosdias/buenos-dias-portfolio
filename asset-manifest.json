@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.125ce32b.js",
-    "static/js/787.875a1bbd.chunk.js": "/react-gh-pages/static/js/787.875a1bbd.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.125ce32b.js.map": "/react-gh-pages/static/js/main.125ce32b.js.map",
-    "787.875a1bbd.chunk.js.map": "/react-gh-pages/static/js/787.875a1bbd.chunk.js.map"
+    "main.css": "/buenos-dias-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/buenos-dias-portfolio/static/js/main.92ffecff.js",
+    "static/js/787.875a1bbd.chunk.js": "/buenos-dias-portfolio/static/js/787.875a1bbd.chunk.js",
+    "static/media/logo.svg": "/buenos-dias-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/buenos-dias-portfolio/index.html",
+    "main.073c9b0a.css.map": "/buenos-dias-portfolio/static/css/main.073c9b0a.css.map",
+    "main.92ffecff.js.map": "/buenos-dias-portfolio/static/js/main.92ffecff.js.map",
+    "787.875a1bbd.chunk.js.map": "/buenos-dias-portfolio/static/js/787.875a1bbd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.125ce32b.js"
+    "static/js/main.92ffecff.js"
   ]
 }
