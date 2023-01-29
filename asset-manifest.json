@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/buenos-dias-portfolio/static/css/main.223b6fc6.css",
-    "main.js": "/buenos-dias-portfolio/static/js/main.5c1c3f3d.js",
+    "main.css": "/buenos-dias-portfolio/static/css/main.8841c1c1.css",
+    "main.js": "/buenos-dias-portfolio/static/js/main.10d550ca.js",
     "static/js/787.875a1bbd.chunk.js": "/buenos-dias-portfolio/static/js/787.875a1bbd.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/buenos-dias-portfolio/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/buenos-dias-portfolio/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -36,12 +36,12 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/buenos-dias-portfolio/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/buenos-dias-portfolio/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/buenos-dias-portfolio/index.html",
-    "main.223b6fc6.css.map": "/buenos-dias-portfolio/static/css/main.223b6fc6.css.map",
-    "main.5c1c3f3d.js.map": "/buenos-dias-portfolio/static/js/main.5c1c3f3d.js.map",
+    "main.8841c1c1.css.map": "/buenos-dias-portfolio/static/css/main.8841c1c1.css.map",
+    "main.10d550ca.js.map": "/buenos-dias-portfolio/static/js/main.10d550ca.js.map",
     "787.875a1bbd.chunk.js.map": "/buenos-dias-portfolio/static/js/787.875a1bbd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.223b6fc6.css",
-    "static/js/main.5c1c3f3d.js"
+    "static/css/main.8841c1c1.css",
+    "static/js/main.10d550ca.js"
   ]
 }
