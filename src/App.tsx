@@ -1,14 +1,10 @@
-// import React from 'react';
-import './App.css';
-import Button from '@mui/material/Button';
+import { Layout } from "./components";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Button variant="contained">Hello World</Button>
-      </header>
-    </div>
+    <Layout>
+      <div>hello</div>
+    </Layout>
   );
 }
 
